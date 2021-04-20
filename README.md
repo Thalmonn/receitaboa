@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Thalmonn/receitaboa">
-    <img src="" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Thalmonn/receitaboa/blob/main/rb/static/img/core-img/logo.png" alt="Logo" width="200" height="62">
   </a>
 
   <h3 align="center">Receita Boa</h3>
